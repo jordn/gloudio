@@ -47,7 +47,12 @@ section.about {
 }
 
 section.team {
-    /*text-align: center;*/
+    text-align: center;
+}
+
+section.team img {
+    margin-top: 30px;
+    margin-bottom: 10px;
 }
 
 section.map {
