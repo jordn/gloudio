@@ -10,7 +10,7 @@ body, p, li {
 
 .hero {
     background-color: #8eb0b9;
-    background: url('../img/travel-large-wes.jpg') no-repeat center center fixed; 
+    background: url('/assets/img/travel-large-wes.jpg') no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -22,7 +22,7 @@ body, p, li {
     border-radius: 4px;
     padding: 10px;
     height: 115px;
-    margin: 20px; 
+    margin: 20px;
 }
 
 .headline {
